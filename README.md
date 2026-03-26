@@ -117,4 +117,4 @@ For Lab 1, you should be able to make changes in obvious places:
 - update the template only if you need a small UI change
 - use the `/health` endpoint for container and deployment health checks
 
-This starter repo does not include any cloud deployment files. Those belong in the separate lab instructions for AWS or Azure.
+
